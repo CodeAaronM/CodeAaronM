@@ -1,10 +1,10 @@
 <h3 title="hehehe"> Hey 👋, I'm Aaron</h3>
 
-<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://www.linkedin.com/in/aaron-martinez-a63216185/" />
+<a href="https://www.linkedin.com/in/aaron-martinez-a63216185/ ">
+  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/jaskirat.mokha/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://www.instagram.com/aaron.martinez.b/" />
+<a href="https://www.instagram.com/aaron.martinez.b/">
+  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
