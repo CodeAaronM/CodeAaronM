@@ -26,11 +26,11 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end web development.
+- 👨🏽‍💻 I’m currently Graduated 4geeks academy student
+- 🌱 I’m currently exploring jwt for authentifications 
+- 🤔 My interest lies in web development.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+- 📫 Email me at [Aaron.martinez.b@gmail.com](mailto:Aaron.martinez.b@gmail.com).
 
 
 
